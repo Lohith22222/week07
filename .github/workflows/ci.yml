@@ -1,5 +1,7 @@
 name: CI Pipeline
 
+# Triggering CI via push for 7.1P demonstration
+
 on:
   push:
     branches:
